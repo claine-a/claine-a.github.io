@@ -1,7 +1,7 @@
 title: Claine A. Page
 description: Data Science Portfolio
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "neon"
 
 plugins:
   - jekyll-include-cache
