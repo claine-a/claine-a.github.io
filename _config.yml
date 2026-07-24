@@ -1,3 +1,23 @@
-title: Claine
+title: Claine A. Page
 description: Data Science Portfolio
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Claine A."
+  #avator:
+  bio: "Data Analyst | Generative AI | Machine Learning | Python Development"
+  location: "Utah"
+
+defaults:
+  - scope:
+    path: ""
+    type: pages
+  values:
+    layout: single
+
+collections:
+  projects:
+    output: true
