@@ -1,4 +1,10 @@
-# Claine A.
+---
+title: "Home"
+layout: splash
+permalink: /
+---
+
+# Hi, I'm Claine.
 
 Data Analyst | Generative AI | Machine Learning | Python Development
 
