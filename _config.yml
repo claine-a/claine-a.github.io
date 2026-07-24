@@ -13,8 +13,8 @@ author:
 
 defaults:
   - scope:
-    path: ""
-    type: pages
+      path: ""
+      type: pages
   values:
     layout: single
 
