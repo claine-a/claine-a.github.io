@@ -4,12 +4,12 @@ Data Analyst | Generative AI | Machine Learning | Python Development
 
 I'm a data analyst intereseted in AI, ML, and all things data.
 
-##Projects
-###STR Price Prediction
+## Projects
+### STR Price Prediction
 
-###Fraudulent Banking Transaction Prediction
+### Fraudulent Banking Transaction Prediction
 
-##Skills
+## Skills
 
 -Python
 -SQL
