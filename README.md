@@ -1,2 +1,1 @@
-# claine-a.github.io
-Public site for repos
+# Claine's site for repos
