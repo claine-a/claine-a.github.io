@@ -4,11 +4,11 @@ layout: splash
 permalink: /
 ---
 
-# Hi, I'm Claine.
+# Hi, I'm Claine (this page is still under construction, the projects are real, just not linked)
 
 Data Analyst | Generative AI | Machine Learning | Python Development
 
-I'm a data analyst intereseted in AI, ML, and all things data.
+I'm a data analyst interested in AI, ML, and all things data.
 
 ## Projects
 ### STR Price Prediction
