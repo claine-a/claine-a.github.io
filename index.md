@@ -4,7 +4,9 @@ layout: splash
 permalink: /
 ---
 
-# Hi, I'm Claine (this page is still under construction, the projects are real, just not linked)
+(This page is under construction)
+
+# Hi, I'm Claine 
 
 Data Analyst | Generative AI | Machine Learning | Python Development
 
